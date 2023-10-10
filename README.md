@@ -8,8 +8,6 @@ Before running this program, make sure you have Python installed on your system.
 
 pip install tabulate
 
-m, `inventory.py`, is an inventory management system for a shoe store. It allows you to manage the inventory of shoes, perform various operations such as capturing new shoe data, viewing all shoes, restocking, searching for a specific shoe, calculating the value per item, finding the product with the highest quantity, and exiting the program.
-
 ## Prerequisites
 
 Before running this program, make sure you have Python installed on your system. You will also need the `tabulate` module to display data in a tabular format. You can install it using the following command:
